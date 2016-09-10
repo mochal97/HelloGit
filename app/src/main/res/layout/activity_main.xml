@@ -63,8 +63,8 @@
                 android:id="@+id/imageView"
                 android:layout_width="match_parent"
                 android:layout_height="250dp"
-                android:src="@drawable/logo"
-                android:contentDescription="Image" />
+                android:contentDescription="Image"
+                android:src="@drawable/logo" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -106,7 +106,7 @@
                     android:id="@+id/editTextNama"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.7"
+                    android:layout_weight="0.6"
                     android:inputType="" />
             </LinearLayout>
 
@@ -128,7 +128,7 @@
                     android:id="@+id/editTextNIS"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.7"
+                    android:layout_weight="0.6"
                     android:inputType="" />
             </LinearLayout>
 
@@ -150,7 +150,7 @@
                     android:id="@+id/editTextSekolah"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.7"
+                    android:layout_weight="0.6"
                     android:inputType="" />
             </LinearLayout>
 
@@ -172,7 +172,7 @@
                     android:id="@+id/editTextWali"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.7"
+                    android:layout_weight="0.6"
                     android:inputType="" />
             </LinearLayout>
 
@@ -232,7 +232,7 @@
                     android:id="@+id/editTextAgama"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.7"
+                    android:layout_weight="0.6"
                     android:inputType="" />
             </LinearLayout>
 
@@ -320,8 +320,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/bgbtn"
-                    android:textColor="@android:color/white"
-                    android:text="@string/Selesai" />
+                    android:text="@string/Selesai"
+                    android:textColor="@android:color/white" />
             </LinearLayout>
 
             <LinearLayout
