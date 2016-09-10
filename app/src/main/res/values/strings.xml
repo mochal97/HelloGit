@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+    <string-array name="Kelas">
+        <item> X RPL</item>
+        <item> X TKJ</item>
+        <item> XI RPL</item>
+        <item> XI TKJ</item>
+        <item> XII RPL</item>
+        <item> XII TKJ</item>
+    </string-array>
+    <string name="sepakbola">Sepak Bola</string>
+    <string name="voli">Voli</string>
+    <string name="basket">Basket</string>
+    <string name="fo">Fiber Optik</string>
+    <string name="Selesai">Selesai</string>
+</resources>
