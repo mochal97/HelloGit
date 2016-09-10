@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
     RadioButton rb1, rb2;
     CheckBox cbSepakBola, cbVoli, cbBasket, cbFO;
     Spinner sp1;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
